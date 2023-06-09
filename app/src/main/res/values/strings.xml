@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistroPersona</string>
+    <string name="txtEnviarDatos">Enviar Informacion</string>
+</resources>
